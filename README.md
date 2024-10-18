@@ -36,21 +36,21 @@
 </p>
 
 <p align="center">
-  <picture><img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge"></picture>
-  <picture><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge"></picture>
-  <picture><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge"></picture>
-  <picture><img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge"></picture>
-  <picture><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge"></picture>
-  <picture><img alt="Java" src="https://img.shields.io/badge/Java-%230769AD?style=for-the-badge"></picture>
-  <picture><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge"></picture>
-  <picture><img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000?style=for-the-badge"></picture>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%230769AD?style=for-the-badge">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-%23000000?style=for-the-badge">
   <br />
-  <picture><img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge"></picture>
-  <picture><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge"></picture><!-- lol, irony -->
-  <picture><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge"></picture>
-  <picture><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge"></picture>
-  <picture><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge"></picture>
-  <picture><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge"></picture>
-  <picture><img alt="XML" src="https://img.shields.io/badge/XML-%23005FAD?style=for-the-badge"></picture>
-  <picture><img alt="YAML" src="https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge"></picture>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge"><!-- lol, irony -->
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge">
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge">
+  <img alt="XML" src="https://img.shields.io/badge/XML-%23005FAD?style=for-the-badge">
+  <img alt="YAML" src="https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge">
 </p>
