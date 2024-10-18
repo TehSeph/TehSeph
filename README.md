@@ -26,13 +26,6 @@
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TehSeph" height=200 />
     </picture>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph&theme=github_dark&layout=compact&show_icons=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph&layout=compact&show_icons=true" />
-      <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph" height=200 />
-    </picture>
-  </a>
 </p>
 
 <p align="center">
@@ -53,4 +46,14 @@
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge">
   <img alt="XML" src="https://img.shields.io/badge/XML-%23005FAD?style=for-the-badge">
   <img alt="YAML" src="https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph&theme=github_dark&layout=compact&show_icons=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph&layout=compact&show_icons=true" />
+      <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph" height=200 />
+    </picture>
+  </a>
 </p>
