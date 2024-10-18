@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">こんにちは〜 Tora desu~🐯</h1>
+<p align="center">I make poorly written websites and mods.</p>
 
-<!--
-**TehSeph/TehSeph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TehSeph&theme=github_dark&include_all_commits=true&show_icons=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TehSeph&include_all_commits=true&show_icons=true&rank_icon=github" />
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TehSeph" height=200 />
+  </picture>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph&theme=github_dark&layout=compact&show_icons=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph&layout=compact&show_icons=true" />
+    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=TehSeph" height=200 />
+  </picture>
+</p>
