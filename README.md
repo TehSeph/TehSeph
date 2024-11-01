@@ -28,10 +28,6 @@
   </tr>
 </table>
 
-<!-- -------------------------------- Tools / Frameworks -------------------------------- -->
-
-<!-- Soon :tm: -->
-
 <!-- -------------------------------- Languages -------------------------------- -->
 
 <table align="center">
@@ -40,22 +36,23 @@
   </tr>
   <tr>
     <td align="center" width="440px">
-      <a href="https://github.com/TehSeph"><img alt=".NET" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="CSS3" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="Java" src="https://img.shields.io/badge/Java-%230769AD?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge"></a><!-- lol Irony -->
-      <a href="https://github.com/TehSeph"><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge"></a>
-      <a href="https://github.com/TehSeph"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge"></a>
+      <a href="https://github.com/TehSeph"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-512BD4?style=for-the-badge&logo=cs&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-0769AD?style=for-the-badge&logo=java&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"></a>
+      <a href="https://github.com/TehSeph"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF"></a><!-- lol Irony -->
+      <a href="https://github.com/TehSeph"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"></a>
+      <a href="https://github.com/TehSeph"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=FFFFFF"></a>
       <br />
-      <a href="https://github.com/TehSeph"><img alt="English" src="https://img.shields.io/badge/English-%23555555?style=for-the-badge"></a><!-- Native langauge, Me is can very fluent! -->
-      <a href="https://github.com/TehSeph"><img alt="Japanese" src="https://img.shields.io/badge/日本語-%23555555?style=for-the-badge"></a><!-- 15+ years self-taught, 私は日本語がまだ下手です。外人です。 -->
-      <!--a href="https://github.com/TehSeph"><img alt="German" src="https://img.shields.io/badge/Deutsch-%23555555?style=for-the-badge"></a><!-- 3 years highschool, Nicht gut. -->
+      <a href="https://github.com/TehSeph"><img alt="English" src="https://img.shields.io/badge/English-555555?style=for-the-badge"></a><!-- Native langauge, Me is can very fluent! -->
+      <!--a href="https://github.com/TehSeph"><img alt="German" src="https://img.shields.io/badge/Deutsch-555555?style=for-the-badge"></a><!-- 3 years highschool, Nicht gut. -->
+      <a href="https://github.com/TehSeph"><img alt="Japanese" src="https://img.shields.io/badge/日本語-555555?style=for-the-badge"></a><!-- 15+ years self-taught, 私は日本語がまだ下手です。外人です。 -->
     </td>
   </tr>
 </table>
@@ -64,24 +61,21 @@
 
 <table align="center">
   <tr>
-    <th align="center">SOCIALS / MISC.</th>
+    <th align="center">MISCELLANEOUS</th>
   </tr>
   <tr>
     <td align="center" width="440px">
-      <!--a href=""><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge"></a-->
-      <!--a href=""><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge"></a-->
-      <!--a href=""><img alt="X(Twitter)" src="https://img.shields.io/badge/X(Twitter)-%23000000?style=for-the-badge"></a-->
-      <!--a href=""><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge"></a-->
-      <!--a href=""><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge"></a-->
-      <a href="https://anilist.co/user/Toranaado/"><img alt="AniList" src="https://img.shields.io/badge/AniList-%2302A9FF?style=for-the-badge&logo=anilist&logoColor=%23FFFFFF"></a>
-      <a href="https://www.curseforge.com/members/tehseph"><img alt="CurseForge" src="https://img.shields.io/badge/CurseForge-%23F16436?style=for-the-badge&logo=curseforge&logoColor=%23FFFFFF"></a>
-      <!--a href=""><img alt="Modrinth" src="https://img.shields.io/badge/Modrinth-%2300AF5C?style=for-the-badge"></a-->
-      <!--a href=""><img alt="Nexus" src="https://img.shields.io/badge/Nexus-%23E6832B?style=for-the-badge"></a-->
-      <a href="https://osu.ppy.sh/users/1482744"><img alt="osu!" src="https://img.shields.io/badge/osu!-%23FF66AA?style=for-the-badge&logo=osu&logoColor=%23FFFFFF"></a>
-      <a href="https://steamcommunity.com/id/tehseph/"><img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=%23FFFFFF"></a>
-      <!--a href=""><img alt="Patreon" src="https://img.shields.io/badge/Patreon-%23000000?style=for-the-badge"></a-->
-      <!--a href=""><img alt="PayPal" src="https://img.shields.io/badge/PayPal-%23003087?style=for-the-badge"></a-->
-      <!--a href=""><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-%23FF5E5B?style=for-the-badge"></a-->
+      <a href="https://anilist.co/user/Toranaado/"><img alt="AniList" src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=FFFFFF"></a>
+      <!--a href=""><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"></a-->
+      <!--a href=""><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=FFFFFF"></a-->
+      <!--a href=""><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=FFFFFF"></a-->
+      <a href="https://osu.ppy.sh/users/1482744"><img alt="osu!" src="https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=FFFFFF"></a>
+      <!--a href=""><img alt="Patreon" src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF"></a-->
+      <!--a href=""><img alt="PayPal" src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=FFFFFF"></a-->
+      <a href="https://steamcommunity.com/id/tehseph/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF"></a>
+      <!--a href=""><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=FFFFFF"></a-->
+      <!--a href=""><img alt="X(Twitter)" src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"></a-->
+      <!--a href=""><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF"></a-->
     </td>
   </tr>
 </table>
