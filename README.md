@@ -40,22 +40,22 @@
   </tr>
   <tr>
     <td align="center" width="440px">
-      <a href=""><img alt=".NET" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge"></a>
-      <a href=""><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge"></a>
-      <a href=""><img alt="CSS3" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge"></a>
-      <a href=""><img alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge"></a>
-      <a href=""><img alt="Java" src="https://img.shields.io/badge/Java-%230769AD?style=for-the-badge"></a>
-      <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge"></a>
-      <a href=""><img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge"></a>
-      <a href=""><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge"></a><!-- lol Irony -->
-      <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge"></a>
-      <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge"></a>
-      <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge"></a>
-      <a href=""><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge"></a>
+      <a href="#"><img alt=".NET" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge"></a>
+      <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge"></a>
+      <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge"></a>
+      <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge"></a>
+      <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%230769AD?style=for-the-badge"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge"></a>
+      <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge"></a>
+      <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge"></a><!-- lol Irony -->
+      <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge"></a>
+      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge"></a>
+      <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge"></a>
       <br />
-      <a href=""><img alt="English" src="https://img.shields.io/badge/English-%23555555?style=for-the-badge"></a><!-- Native langauge, Me is can very fluent! -->
-      <a href=""><img alt="Japanese" src="https://img.shields.io/badge/日本語-%23555555?style=for-the-badge"></a><!-- 15+ years self-taught, 私は日本語がまだ下手です。外人です。 -->
-      <!--a href=""><img alt="German" src="https://img.shields.io/badge/Deutsch-%23555555?style=for-the-badge"></a><!-- 3 years highschool, Nicht gut. -->
+      <a href="#"><img alt="English" src="https://img.shields.io/badge/English-%23555555?style=for-the-badge"></a><!-- Native langauge, Me is can very fluent! -->
+      <a href="#"><img alt="Japanese" src="https://img.shields.io/badge/日本語-%23555555?style=for-the-badge"></a><!-- 15+ years self-taught, 私は日本語がまだ下手です。外人です。 -->
+      <!--a href="#"><img alt="German" src="https://img.shields.io/badge/Deutsch-%23555555?style=for-the-badge"></a><!-- 3 years highschool, Nicht gut. -->
     </td>
   </tr>
 </table>
