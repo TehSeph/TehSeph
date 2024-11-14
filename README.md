@@ -10,58 +10,36 @@
   <tr>
     <td align="center" width="440px">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TehSeph&theme=github_dark&show_icons=true&rank_icon=github" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TehSeph&show_icons=true&rank_icon=github" />
-          <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TehSeph" />
-        </picture>
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TehSeph&theme=github_dark&show_icons=true&rank_icon=github" />
       </a>
       <br />
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=TehSeph&theme=github-dark-blue" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=TehSeph" />
-          <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=TehSeph" />
-        </picture>
+        <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=TehSeph&theme=github-dark-blue" />
       </a>
     </td>
   </tr>
 </table>
 
-<!-- -------------------------------- Languages -------------------------------- -->
+<!-- -------------------------------- Skills -------------------------------- -->
 
 <table align="center">
   <tr>
-    <th align="center">LANGUAGES</th>
+    <th align="center">SKILLS & SOFTWARE</th>
   </tr>
   <tr>
     <td align="center" width="440px">
-      <a href="https://github.com/TehSeph"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-512BD4?style=for-the-badge&logo=cs&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-0769AD?style=for-the-badge&logo=java&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"></a>
-      <a href="https://github.com/TehSeph"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF"></a><!-- lol Irony -->
-      <a href="https://github.com/TehSeph"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF"></a>
-      <a href="https://github.com/TehSeph"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=FFFFFF"></a>
-      <br />
-      <a href="https://github.com/TehSeph"><img alt="English" src="https://img.shields.io/badge/English-555555?style=for-the-badge"></a><!-- Native langauge, Me is can very fluent! -->
-      <!--a href="https://github.com/TehSeph"><img alt="German" src="https://img.shields.io/badge/Deutsch-555555?style=for-the-badge"></a><!-- 3 years highschool, Nicht gut. -->
-      <a href="https://github.com/TehSeph"><img alt="Japanese" src="https://img.shields.io/badge/日本語-555555?style=for-the-badge"></a><!-- 15+ years self-taught, 私は日本語がまだ下手です。外人です。 -->
+      <a href="https://github.com/Jurredr/github-widgetbox">
+        <img alt="Skills" src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,css,html,js,json,java,lua,markdown,php,python,ruby,xml,yaml&frameworks=angular,bootstrap,electron,jquery,laravel,react,webpack&tools=git,nodejs,npm,mongodb,mysql,vscode&includeNames=true&theme=dark" width="440px" />
+      </a>
     </td>
   </tr>
 </table>
 
-<!-- -------------------------------- Socials / Misc. -------------------------------- -->
+<!-- -------------------------------- Socials -------------------------------- -->
 
 <table align="center">
   <tr>
-    <th align="center">MISCELLANEOUS</th>
+    <th align="center">SOCIAL LINKS</th>
   </tr>
   <tr>
     <td align="center" width="440px">
