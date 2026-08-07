@@ -10,7 +10,7 @@
   <tr>
     <td align="center" width="440px">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TehSeph&theme=github_dark&show_icons=true&rank_icon=github" />
+        <img alt="Stats" src="https://github-stats-extended.vercel.app/api?username=TehSeph&theme=github_dark&show_icons=true&rank_icon=github" />
       </a>
       <br />
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
