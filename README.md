@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは〜 Tora desu~🐯</h1>
-<p align="center">I make <strike>poorly written</strike> websites, chatbots, and mods for games.<br />I want to create my own games some day.</p>
+<p align="center">I make <strike>poorly written</strike> websites, chatbots, and mods for games.<br />I want to create my own games someday.</p>
 
 <!-- -------------------------------- Stats / Streak -------------------------------- -->
 
@@ -10,7 +10,7 @@
   <tr>
     <td align="center" width="440px">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Stats" src="https://github-stats-extended.vercel.app/api?username=TehSeph&theme=github_dark&show_icons=true&rank_icon=github" />
+        <img alt="Stats" src="https://github-stats-extended.vercel.app/api?username=TehSeph&rank_icon=github&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark" />
       </a>
       <br />
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
