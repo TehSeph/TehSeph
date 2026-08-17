@@ -9,12 +9,12 @@
   </tr>
   <tr>
     <td align="center" width="440px">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Stats" src="https://github-stats-extended.vercel.app/api?username=TehSeph&rank_icon=github&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark" />
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img alt="Stats" src="./profile/stats.svg" />
       </a>
       <br />
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=TehSeph&theme=github-dark-blue" />
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img alt="Streak" src="./profile/streak.svg" />
       </a>
     </td>
   </tr>

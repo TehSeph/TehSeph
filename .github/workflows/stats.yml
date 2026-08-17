@@ -1,0 +1,41 @@
+name: Update Github Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run every day at midnight
+  push:
+    paths:
+      - ".github/workflows/stats.yml" # Run any time this file is modified
+  workflow_dispatch: # Run manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          card: stats
+          options: username=TehSeph&hide_title=true&rank_icon=github&theme=github_dark&show_icons=true&include_all_commits=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Streak Card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=TehSeph&theme=github-dark-blue&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Stats Cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update Profile Stats" || exit 0
+          git push

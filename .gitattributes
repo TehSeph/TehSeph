@@ -1,0 +1,44 @@
+# set the default file type to text
+* text=auto
+
+# explicitly set Windows line endings for code
+*.js    text eol=crlf
+*.jsx   text eol=crlf
+*.cjs   text eol=crlf
+*.mjs   text eol=crlf
+*.ts    text eol=crlf
+*.tsx   text eol=crlf
+*.cts   text eol=crlf
+*.mts   text eol=crlf
+*.json  text eol=crlf
+*.jsonc text eol=crlf
+*.json5 text eol=crlf
+
+*.css   text eol=crlf
+*.sass  text eol=crlf
+*.scss  text eol=crlf
+
+*.htm   text eol=crlf
+*.html  text eol=crlf
+
+*.xml   text eol=crlf
+*.svg   text eol=crlf
+
+# explicitly set Unix line endings for shell scripts & text
+*.sh    text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+
+# common binary files (unset from text)
+*.bmp   binary
+*.gif   binary
+*.ico   binary
+*.jpeg  binary
+*.jpg   binary
+*.png   binary
+
+# common zipped files (set diff type)
+*.7z    diff=zip
+*.gz    diff=zip
+*.rar   diff=zip
+*.zip   diff=zip
