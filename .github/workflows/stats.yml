@@ -23,14 +23,14 @@ jobs:
           card: stats
           options: username=TehSeph&hide_title=true&rank_icon=github&theme=github_dark&show_icons=true&include_all_commits=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Generate Streak Card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=TehSeph&theme=github-dark-blue&disable_animations=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Commit Stats Cards
         run: |
