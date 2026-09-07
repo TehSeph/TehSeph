@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは〜 Tora desu~🐯</h1>
-<p align="center">I make <strike>poorly written</strike> websites, chatbots, and mods for games.<br />I want to create my own games someday.</p>
+<p align="center">I make <strike>poorly written</strike> websites, chatbots, and mods for games.<br />Someday I want to create my own games.</p>
 
 <!-- -------------------------------- Stats / Streak -------------------------------- -->
 
