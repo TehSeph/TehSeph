@@ -14,14 +14,12 @@ The default workflow for this project is:
 1. Claude/Copilot (or another designated planning agent) analyzes requirements and produces an implementation plan
 or review.
 2. Junie/Codex (or another designated coding agent) verifies the plan against the actual repository.
-3. A human developer or the primary coding agent implements the approved work.
-4. Local models may be used as fallback agents for implementation, explanation, analysis, or review - never for coding.
+3. A human developer, or the primary coding agent, implements the approved work.
+4. Local models may be used as fallback agents for planning, explanation, analysis, or review - never for coding.
 5. A human developer always remains responsible for approving any significant changes and commits.
 
-Plans produced by another agent are advisory rather than authoritative. Verify relevant assumptions against the actual
-repository before implementing changes.
-
-Do not assume that a plan is correct simply because another agent produced it.
+Plans produced by AI agents are advisory rather than authoritative. Verify relevant assumptions against the actual
+repository before implementing any changes. Never assume a plan is correct simply because another agent produced it.
 
 ---
 
