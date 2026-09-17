@@ -237,18 +237,18 @@ in this document (and subsequent related documents).
 Before beginning work:
 
 1. Inspect the repository for applicable project-specific instructions.
-2. Check the `.agents/` directory for specialized instruction documents.
+2. Check the `.agents/instructions/` directory for specialized instruction documents.
 3. Read and follow all instruction documents relevant to the task.
 
 Examples may include instructions for:
 
-- Web development.
-- Unity development.
-- Specific languages.
-- Frameworks.
-- Testing.
-- Deployment.
-- Databases.
+- Web Development.
+- Game Engines.
+- Scripting Languages.
+- Frameworks/Modules.
+- Database Structures.
+- Testing Suites.
+- Production Deployment.
 
 Specialized instructions supplement the instructions in this document.
 
