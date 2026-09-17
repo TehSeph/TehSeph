@@ -4,7 +4,8 @@ These instructions apply to AI agents working on Unity projects in this reposito
 
 This document supplements the repository's `AGENTS.md`.
 
-Follow both documents. If a Unity-specific instruction conflicts with a general instruction, the Unity-specific instruction takes precedence.
+Follow both documents. If a Unity-specific instruction conflicts with a general instruction, the Unity-specific
+instruction takes precedence.
 
 ---
 
@@ -28,6 +29,8 @@ In particular, avoid manually editing or relying on generated contents of:
 - `obj/`
 
 Follow the project's existing `.gitignore` configuration.
+
+Follow the project's existing directory and naming conventions.
 
 ---
 
@@ -149,17 +152,30 @@ Clearly distinguish between:
 
 # 8. Unity Change Review
 
-Before completing a significant Unity-related task, inspect the resulting changes for:
+Before completing a significant Unity-related task, review the resulting changes for:
 
 - Unintended `.meta` modifications.
-- Broken asset references.
-- Unrelated scene or prefab changes.
-- Unexpected serialized-file changes.
-- Unnecessary package modifications.
-- Changes to generated directories.
-- Potential lifecycle or initialization issues.
+- Unexpected or missing `.meta` files.
+- Broken asset GUID or serialized references.
+- Broken component, object, or serialized-property references.
+- Unrelated changes to scenes, prefabs, ScriptableObjects, or other serialized assets.
+- Unnecessary changes to `Packages/manifest.json` or `Packages/packages-lock.json`.
+- Unexpected modifications to generated or editor-managed files.
+- C# lifecycle, initialization, destruction, or scene-transition issues.
+- Compatibility issues with the project's configured Unity version.
+- Package or API compatibility issues.
+- Changes that could behave differently between Edit Mode and Play Mode.
+- Changes that affect runtime behavior without corresponding validation.
+
+When reviewing serialized Unity files, prefer the smallest meaningful diff and investigate large or unexpected changes
+rather than assuming they are harmless.
+
+When reviewing a change that affects multiple Unity systems, verify the relationships between scripts, scenes, prefabs,
+assets, packages, and project settings rather than reviewing each file in isolation.
 
 Report any validation that could not be performed.
+
+---
 
 # 9. Completion Standard
 
@@ -167,7 +183,7 @@ For substantive Unity-related work, a task is generally complete when:
 
 1. The requested behavior or change has been implemented.
 2. Relevant Unity asset, serialization, and project conventions have been preserved.
-3. The resulting changes have been reviewed for unintended `.meta`, scene, prefab, package, or generated-file modifications.
-4. Appropriate validation has been attempted, such as compilation, automated tests, Unity Editor verification, or runtime testing.
-5. Any validation that could not be performed has been clearly disclosed.
+3. Changes have been reviewed for unintended `.meta`, scene, prefab, package, or generated-file modifications.
+4. Appropriate validation, such as compilation, Unity Editor verification, or automated testing has been ran and passed.
+5. Any validation that could not be performed or has failed has been clearly disclosed.
 6. The resulting changes remain within the requested scope.

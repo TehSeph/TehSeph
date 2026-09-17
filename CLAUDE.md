@@ -231,36 +231,7 @@ Claude should identify issues and recommend corrections without applying those c
 
 ---
 
-# 11. Unity Planning and Review
-
-When this repository contains a Unity project, Claude should additionally consider:
-
-- Unity's asset and `.meta` file relationships.
-- Serialized references.
-- Scene and prefab dependencies.
-- C# lifecycle behavior.
-- Package compatibility.
-- Unity version constraints.
-- Play Mode and Edit Mode implications.
-- Generated versus source-controlled directories.
-
-Claude should not modify Unity scenes, prefabs, assets, `.meta` files, or C# scripts.
-
-When planning changes for Unity, identify the likely source-controlled assets and scripts that should be inspected or modified.
-
-When reviewing Unity changes, pay particularly close attention to:
-
-- Broken serialized references.
-- Asset identity concerns.
-- Unintended `.meta` changes.
-- Scene and prefab regressions.
-- Changes to generated files.
-- Lifecycle or initialization problems.
-- Unity version and package compatibility.
-
----
-
-# 12. Completion
+# 11. Completion
 
 When completing a planning, investigation, or review task, provide the following:
 
@@ -271,4 +242,5 @@ When completing a planning, investigation, or review task, provide the following
 - Recommended implementation or next steps.
 - Recommended validation and tests.
 
-**Do not claim that a proposed approach has been implemented unless that work was actually performed by a human developer or another agent and the relevant results were provided for review.**
+**Do not claim that a proposed approach has been implemented or tested unless that work was actually performed**
+**by a human developer or another agent and the relevant results were provided to you for review.**

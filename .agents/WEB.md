@@ -4,7 +4,8 @@ These instructions apply to AI agents working on web-related code in this reposi
 
 This document supplements the repository's `AGENTS.md`.
 
-Follow both documents. If a web-specific instruction conflicts with a general instruction, the web-specific instruction takes precedence.
+Follow both documents. If a web-specific instruction conflicts with a general instruction, the web-specific
+instruction takes precedence.
 
 ---
 
@@ -17,7 +18,8 @@ Before making significant web-related changes:
 3. Inspect relevant configuration files.
 4. Identify the existing application architecture and conventions.
 
-Do not assume that a project uses a particular framework, routing system, styling approach, test framework, or package manager without verifying it.
+Do not assume that a project uses a particular framework, routing system, styling approach, test framework, or package
+manager without verifying it.
 
 Do not introduce tooling from another ecosystem merely because it is familiar.
 
@@ -121,7 +123,8 @@ When modifying user-facing layouts:
 - Avoid introducing unnecessary fixed dimensions.
 - Avoid assumptions about a single browser or screen size.
 
-Do not claim cross-browser compatibility unless it has been tested and is supported by the project's existing compatibility targets.
+Do not claim cross-browser compatibility unless it has been tested and is supported by the project's existing
+compatibility targets.
 
 ---
 
@@ -152,7 +155,8 @@ When modifying APIs or code that consumes external data:
 
 Do not change externally observable API behavior without considering existing consumers.
 
-If an API contract must change, identify potentially affected clients or services and relay that information for other developers.
+If an API contract must change, identify potentially affected clients or services and relay that information for
+other developers.
 
 ---
 
@@ -187,7 +191,8 @@ When making web-related changes, consider:
 
 **Do not introduce security mechanisms casually or disable existing security controls to simplify development.**
 
-If a requested change introduces a significant security concern, identify it clearly for review before writing any implementation.
+If a requested change introduces any significant security concerns, identify those concerns clearly for review before
+writing any implementation.
 
 ---
 
@@ -217,7 +222,8 @@ For performance-sensitive changes:
 - Follow existing loading and code-splitting strategies.
 - Avoid premature optimization.
 
-Do not claim a change improves performance unless performance was actually measured or the improvement is otherwise directly verifiable.
+Do not claim a change improves performance unless performance was actually measured or the improvement is otherwise
+directly verifiable.
 
 Prioritize correctness and maintainability unless performance is an explicit requirement.
 
