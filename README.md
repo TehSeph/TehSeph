@@ -29,7 +29,7 @@
   <tr>
     <td align="center" width="440px">
       <a href="https://github.com/Jurredr/github-widgetbox">
-        <img alt="Skills" src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,css,html,js,json,java,lua,markdown,php,python,ruby,xml,yaml&frameworks=angular,bootstrap,electron,jquery,laravel,react,webpack&tools=git,nodejs,npm,mongodb,mysql,vscode&includeNames=true&theme=dark" width="440px" />
+        <img alt="Skills" src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,css,html,js,java,lua,markdown,php,powershell,python,ruby,sass,typescript&frameworks=bootstrap,electron,jquery,laravel,react,tailwindcss,webpack&tools=docker,git,gradle,nodejs,npm,mongodb,mysql&software=linux,windows,vscode&includeNames=true&theme=dark" width="440px" />
       </a>
     </td>
   </tr>
