@@ -57,11 +57,3 @@
     </td>
   </tr>
 </table>
-
-<!-- -------------------------------- Profile Views -------------------------------- -->
-
-<p align="center">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=TehSeph&color=orange&style=for-the-badge" />
-  </a>
-</p>
