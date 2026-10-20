@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@main
         with:
             card: top-langs
-            options: username=TehSeph&hide_border=true&hide_title=true&layout=compact&theme=github-dark&disable_animations=true
+            options: username=TehSeph&hide_border=true&hide_title=true&layout=compact&theme=github_dark&disable_animations=true&langs_count=20
             path: profile/top-langs.svg
             token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
