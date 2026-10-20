@@ -51,6 +51,10 @@
             <img src="https://devicons.io/devicons/icons/svg.svg" alt="SVG" height="32" />
             <img src="https://devicons.io/devicons/icons/toml.svg" alt="TOML" height="32" />
             <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" height="32" />
+            <br clear="both" />
+            <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+                <img src="./profile/top-langs.svg" alt="Top Languages" />
+            </a>
         </td>
     </tr>
 </table>

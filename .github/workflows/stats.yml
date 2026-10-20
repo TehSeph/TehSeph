@@ -25,6 +25,14 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+            card: top-langs
+            options: username=TehSeph&hide_border=true&hide_title=true&layout=compact&theme=github-dark-blue&disable_animations=true
+            path: profile/top-langs.svg
+            token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
       - name: Generate Streak Card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
