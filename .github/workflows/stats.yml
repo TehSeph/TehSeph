@@ -2,7 +2,7 @@ name: Update Github Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run every day at midnight
+    - cron: "0 */12 * * *" # Runs twice daily, every 12 hours
   push:
     paths:
       - ".github/workflows/stats.yml" # Run any time this file is modified
