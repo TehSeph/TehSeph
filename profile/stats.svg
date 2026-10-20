@@ -1,15 +1,15 @@
 
       <svg
-        width="467"
+        width="450"
         height="365"
-        viewBox="0 0 467 365"
+        viewBox="0 0 450 365"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Toranaado&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  : 335, Total PRs: 5, Total PRs Merged: 2, Merged PRs Percentage: 40.00, Total PRs Reviewed: 0, Total Issues: 7, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Commented: 15, PRs Reviewed: 1, Issues Commented: 54, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  : 336, Total PRs: 5, Total PRs Merged: 2, Merged PRs Percentage: 40.00, Total PRs Reviewed: 0, Total Issues: 7, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Commented: 15, PRs Reviewed: 1, Issues Commented: 54, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 200.24808853601075;
+        stroke-dashoffset: 200.22507843551193;
       }
     }
   
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
+          width="449"
           fill="#0D1117"
           stroke-opacity="0"
         />
@@ -130,7 +130,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 147.5)">
+          transform="translate(373.5, 147.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -170,7 +170,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >335</text>
+      >336</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
