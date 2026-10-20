@@ -34,6 +34,10 @@
     </tr>
     <tr>
         <td width="480" align="center">
+            <a href="https://github.com/stats-organization/github-stats-extended">
+                <img src="./profile/top-langs.svg" alt="Top Languages" />
+            </a>
+            <br clear="both" />
             <img src="https://devicons.io/devicons/icons/bash-icon.svg" alt="Bash" height="32" />
             <img src="https://devicons.io/devicons/icons/c-plusplus.svg" alt="C++" height="32" />
             <img src="https://devicons.io/devicons/icons/c-sharp.svg" alt="C#" height="32" />
@@ -51,10 +55,6 @@
             <img src="https://devicons.io/devicons/icons/svg.svg" alt="SVG" height="32" />
             <img src="https://devicons.io/devicons/icons/toml.svg" alt="TOML" height="32" />
             <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" height="32" />
-            <br clear="both" />
-            <a href="https://github.com/stats-organization/github-stats-extended">
-                <img src="./profile/top-langs.svg" alt="Top Languages" />
-            </a>
         </td>
     </tr>
 </table>
