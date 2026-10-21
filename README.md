@@ -181,10 +181,10 @@
             <!--a href=""><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=FFFFFF"></a-->
             <!--a href=""><img alt="X(Twitter)" src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"></a-->
             <!--a href=""><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF"></a-->
+            <br clear="both" />
+            <a href="https://www.ko-fi.com/toranaado" align="center"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy me a coffee" width="128"/></a>
         </td>
     </tr>
 </table>
-
-<!--a href="https://www.ko-fi.com/tehseph" align="center"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy me a coffee" width="128"/></a-->
 
 <!-- Yes, I am aware this file is HTML and not Markdown, but it looks prettier~ -->
