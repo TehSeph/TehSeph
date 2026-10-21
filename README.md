@@ -171,18 +171,19 @@
     </tr>
     <tr>
         <td width="480" align="center">
-            <a href="https://anilist.co/user/Toranaado/"><img alt="AniList" src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=FFFFFF"></a>
-            <!--a href=""><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"></a-->
-            <!--a href=""><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=FFFFFF"></a-->
-            <a href="https://osu.ppy.sh/users/1482744"><img alt="osu!" src="https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=FFFFFF"></a>
-            <!--a href=""><img alt="Patreon" src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF"></a-->
-            <!--a href=""><img alt="PayPal" src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=FFFFFF"></a-->
-            <a href="https://steamcommunity.com/id/tehseph/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF"></a>
-            <!--a href=""><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=FFFFFF"></a-->
-            <!--a href=""><img alt="X(Twitter)" src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"></a-->
-            <!--a href=""><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF"></a-->
+            <a href="https://anilist.co/user/Toranaado/"><img alt="AniList" src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=FFFFFF" /></a>
+            <!--a href=""><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" /></a-->
+            <!--a href=""><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=FFFFFF" /></a-->
+            <a href="https://osu.ppy.sh/users/1482744"><img alt="osu!" src="https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=FFFFFF" /></a>
+            <!--a href=""><img alt="Patreon" src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=FFFFFF" /></a-->
+            <!--a href=""><img alt="PayPal" src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=FFFFFF" /></a-->
+            <a href="https://steamcommunity.com/id/tehseph/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF" /></a>
+            <!--a href=""><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=FFFFFF" /></a-->
+            <!--a href=""><img alt="X(Twitter)" src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a-->
+            <!--a href=""><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF" /></a-->
             <br clear="both" />
-            <a href="https://www.ko-fi.com/toranaado" align="center"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy me a coffee" width="128"/></a>
+            <a href="https://www.ko-fi.com/toranaado" align="center"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--Fi-FF6435?style=for-the-badge&logo=ko-fi&logoColor=FFFFFF" /></a>
+            <!--a href="https://www.buymeacoffee.com/toranaado" align="center"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=FFFFFF" /></a-->
         </td>
     </tr>
 </table>
