@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Toranaado&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  : 340, Total PRs: 5, Total PRs Merged: 2, Merged PRs Percentage: 40.00, Total PRs Reviewed: 0, Total Issues: 7, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 1, Issues Commented: 54, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  : 340, Total PRs: 5, Total PRs Merged: 2, Merged PRs Percentage: 40.00, Total PRs Reviewed: 0, Total Issues: 7, Total Discussions Started: 0, Total Discussions Answered: 0, PRs Commented: 15, PRs Reviewed: 1, Issues Commented: 54, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -290,7 +290,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_commented"
-      >0</text></a>
+      >15</text></a>
     </g>
   </g><g transform="translate(0, 250)">
     <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3ATehSeph+-author%3ATehSeph&amp;type=pullrequests">
