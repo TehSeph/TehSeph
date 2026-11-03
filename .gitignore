@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+[Bb]uild/
+[Dd]ist/
+[Oo]ut/
+
+[Tt]emp/
+[Ll]ogs/
+*.log*
+
+.idea/
+.vscode/
