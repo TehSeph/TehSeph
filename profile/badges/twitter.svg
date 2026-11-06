@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126.5" height="28" aria-label="X(TWITTER)">
+    <path d="M0 0h126.5v28H0z" shape-rendering="crispEdges"/>
+    <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" text-anchor="middle"
+       text-rendering="geometricPrecision">
+        <image width="14" height="14" x="9" y="7"
+               href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+WDwvdGl0bGU+PHBhdGggZD0iTTE0LjIzNCAxMC4xNjIgMjIuOTc3IDBoLTIuMDcybC03LjU5MSA4LjgyNEw3LjI1MSAwSC4yNThsOS4xNjggMTMuMzQzTC4yNTggMjRIMi4zM2w4LjAxNi05LjMxOEwxNi43NDkgMjRoNi45OTN6bS0yLjgzNyAzLjI5OS0uOTI5LTEuMzI5TDMuMDc2IDEuNTZoMy4xODJsNS45NjUgOC41MzIuOTI5IDEuMzI5IDcuNzU0IDExLjA5aC0zLjE4MnoiLz48L3N2Zz4="/>
+        <text x="732.5" y="175" font-weight="bold" textLength="825" transform="scale(.1)">X(TWITTER)</text>
+    </g>
+</svg>

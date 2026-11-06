@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99.75" height="28" aria-label="ANILIST">
+    <path fill="#02a9ff" d="M0 0h99.75v28H0z" shape-rendering="crispEdges"/>
+    <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" text-anchor="middle"
+       text-rendering="geometricPrecision">
+        <image width="14" height="14" x="9" y="7"
+               href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QW5pTGlzdDwvdGl0bGU+PHBhdGggZD0iTTI0IDE3LjUzdjIuNDIxYzAgLjcxLS4zOTEgMS4xMDEtMS4xIDEuMTAxaC01bC0uMDU3LS4xNjVMMTEuODQgMy43MzZjLjEwNi0uNTAyLjQ2LS43ODggMS4wNTMtLjc4OGgyLjQyMmMuNzEgMCAxLjEuMzkxIDEuMSAxLjF2MTIuMzhIMjIuOWMuNzEgMCAxLjEuMzkyIDEuMSAxLjEwMXpNMTEuMDM0IDIuOTQ3bDYuMzM3IDE4LjEwNGgtNC45MThsLTEuMDUyLTMuMTMxSDYuMDE5bC0xLjA3NyAzLjEzMUgwTDYuMzYxIDIuOTQ4aDQuNjczem0tLjY2IDEwLjk2LTEuNjktNS4wMTQtMS41NDEgNS4wMTVoMy4yM3oiLz48L3N2Zz4="/>
+        <text x="598.75" y="175" font-weight="bold" textLength="557.5" transform="scale(.1)">ANILIST</text>
+    </g>
+</svg>

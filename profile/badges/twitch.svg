@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96.5" height="28" aria-label="TWITCH">
+    <path fill="#9146ff" d="M0 0h96.5v28H0z" shape-rendering="crispEdges"/>
+    <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" text-anchor="middle"
+       text-rendering="geometricPrecision">
+        <image width="14" height="14" x="9" y="7"
+               href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VHdpdGNoPC90aXRsZT48cGF0aCBkPSJNMTEuNTcxIDQuNzE0aDEuNzE1djUuMTQzSDExLjU3em00LjcxNSAwSDE4djUuMTQzaC0xLjcxNHpNNiAwTDEuNzE0IDQuMjg2djE1LjQyOGg1LjE0M1YyNGw0LjI4Ni00LjI4NmgzLjQyOEwyMi4yODYgMTJWMHptMTQuNTcxIDExLjE0M2wtMy40MjggMy40MjhoLTMuNDI5bC0zIDN2LTNINi44NTdWMS43MTRoMTMuNzE0WiIvPjwvc3ZnPg=="/>
+        <text x="582.5" y="175" font-weight="bold" textLength="525" transform="scale(.1)">TWITCH</text>
+    </g>
+</svg>
