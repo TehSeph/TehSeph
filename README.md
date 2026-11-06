@@ -161,37 +161,17 @@
     </tr>
     <tr>
         <td width="480" align="center">
-            <a href="https://anilist.co/user/Toranaado/">
-                <img alt="AniList" src="./profile/badges/anilist.svg" />
-            </a>
-            <!--a href="">
-                <img alt="Discord" src="./profile/badges/discord.svg" />
-            </a-->
-            <!--a href="">
-                <img alt="Facebook" src="./profile/badges/facebook.svg" />
-            </a-->
-            <a href="https://osu.ppy.sh/users/1482744">
-                <img alt="osu!" src="./profile/badges/osu.svg" />
-            </a>
-            <a href="https://steamcommunity.com/id/tehseph/">
-                <img alt="Steam" src="./profile/badges/steam.svg" />
-            </a>
-            <!--a href="">
-                <img alt="Twitch" src="./profile/badges/twitch.svg" />
-            </a-->
-            <!--a href="">
-                <img alt="X(Twitter)" src="./profile/badges/twitter.svg" />
-            </a-->
-            <!--a href="">
-                <img alt="YouTube" src="./profile/badges/youtube.svg" />
-            </a-->
+            <a href="https://anilist.co/user/Toranaado/"><img alt="AniList" src="./profile/badges/anilist.svg" /></a>
+            <!--a href=""><img alt="Discord" src="./profile/badges/discord.svg" /></a-->
+            <!--a href=""><img alt="Facebook" src="./profile/badges/facebook.svg" /></a-->
+            <a href="https://osu.ppy.sh/users/1482744"><img alt="osu!" src="./profile/badges/osu.svg" /></a>
+            <a href="https://steamcommunity.com/id/tehseph/"><img alt="Steam" src="./profile/badges/steam.svg" /></a>
+            <!--a href=""><img alt="Twitch" src="./profile/badges/twitch.svg" /></a-->
+            <!--a href=""><img alt="X(Twitter)" src="./profile/badges/twitter.svg" /></a-->
+            <!--a href=""><img alt="YouTube" src="./profile/badges/youtube.svg" /></a-->
             <br clear="both" />
-            <a href="https://www.ko-fi.com/toranaado" align="center">
-                <img alt="Ko-Fi" src="./profile/badges/ko-fi.svg" />
-            </a>
-            <!--a href="https://www.buymeacoffee.com/toranaado" align="center">
-                <img alt="Buy Me a Coffee" src="./profile/badges/buymeacoffee.svg" />
-            </a-->
+            <a href="https://www.ko-fi.com/toranaado" align="center"><img alt="Ko-Fi" src="./profile/badges/ko-fi.svg" /></a>
+            <!--a href="https://www.buymeacoffee.com/toranaado" align="center"><img alt="Buy Me a Coffee" src="./profile/badges/buymeacoffee.svg" /></a-->
         </td>
     </tr>
 </table>
